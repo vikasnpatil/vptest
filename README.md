@@ -1,5 +1,5 @@
 # vptest
-Just do it one more time
+Just do it two more time
 
 1.  Fix (Walk around) Notepad++ hanging on CJK input with ANSI document while enabling word completion.
 2.  Enhance folding performance on large documents.
